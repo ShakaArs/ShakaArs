@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am passionate about leadership and software development, and I believe in the transformative power of technology to create positive change.
 
-![statistik github]( https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt &show_icons=true&theme=radical)
+[statistik github]( https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt &show_icons=true&theme=radical)
