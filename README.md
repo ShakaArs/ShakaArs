@@ -1,3 +1,4 @@
+![logo](https://github.com/ShakaArs/ShakaArs/blob/main/banner_github.png)
 <h1 align="center">Hi 👋, I'm Shaka Arisya</h1>
 <h3 align="center">A passionate Mobile Developer from Semarang Indonesia</h3>
 <img align="right" all="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1721260800&v=beta&t=LZKCzrScJ_LsSiJpUxkM1b1y6DcKoOgzWoLjTuplS7g">
