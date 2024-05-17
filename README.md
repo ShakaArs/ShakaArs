@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaka Arisya</h1>
 <h3 align="center">A passionate Mobile Developer from Semarang Indonesia</h3>
-<img align="right" all="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRyMWF5b3drOHEzM2gyYmFoYmgwbnRuN2p5ZjZvbDVxMzNqdXY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" all="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenacteservices.com%2Fhire%2Fandroid-developer%2F&psig=AOvVaw02U5xMF7hXtHU6mwGGLmeI&ust=1716048228362000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiCxYKIlYYDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakaars&label=Profile%20views&color=0e75b6&style=flat" alt="shakaars" /> </p>
 <br>
 
